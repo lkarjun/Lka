@@ -7528,10 +7528,11 @@ header {
     float: left; }
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
+      font-family: cursive;
       text-transform: uppercase;
       color: #fff;
       font-weight: 400;
-      letter-spacing: 5px;
+      letter-spacing: 3px;
       padding: 7px;
       display: block;
       text-align: center;
